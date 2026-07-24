@@ -18,15 +18,15 @@ from typing import Dict, List, Optional, Tuple
 import uuid
 
 # ==================== الإعدادات الأساسية ====================
-USER_BOT_TOKEN = "8817782484:AAGZXVyhCfGyWoS_evaYtzNGaZyKgCbLZHU"
-ADMIN_BOT_TOKEN = "8746156510:AAHvZoeIuPA9ddaynEqNlK6NYew8pO-MEnM"
-DEV_ID = 8606855463
-ASSISTANT_ADMIN_ID = 8606855463
+USER_BOT_TOKEN = "8700600582:AAH3eMOdyAH_tlXhDTkTHdueoTABBg_44gE"
+ADMIN_BOT_TOKEN = "8823671749:AAEILVI_kyHZRmUi1OO4cZogAb-NIvRZXdY"
+DEV_ID = 1444139300
+ASSISTANT_ADMIN_ID = 1444139300
 ADMINS = {DEV_ID, ASSISTANT_ADMIN_ID}
-DEV_USERNAME = "@jdkfdh"
+DEV_USERNAME = "@Mahmoud_tiva"
 
 # ==================== إعدادات نظام الاشتراك المدفوع ====================
-SUBSCRIPTION_PRICE = 250          # سعر الاشتراك بالجنيه شهرياً
+SUBSCRIPTION_PRICE = 50           # سعر الاشتراك بالجنيه شهرياً
 VODAFONE_CASH_NUMBER = "01010805694"   # رقم فودافون كاش للاستقبال
 SUBSCRIPTION_ENABLED = False       # تفعيل/إيقاف نظام الاشتراك (False = مجاني للجميع)
 
